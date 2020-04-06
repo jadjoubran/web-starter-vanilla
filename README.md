@@ -2,7 +2,7 @@
 
 Web starter using Vanilla JavaScript &amp; CSS for learnjavascript.online
 
-This boilerplate is given at the end of the [Learn JavaScript](https://learnjavascript.online) course.
+This boilerplate is provided at the end of the [Learn JavaScript](https://learnjavascript.online) course.
 
 ## Setup
 

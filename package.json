@@ -1,0 +1,23 @@
+{
+  "name": "web-starter-vanilla",
+  "version": "1.0.0",
+  "description": "Web starter vanilla",
+  "main": "src/app.js",
+  "scripts": {
+    "serve": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadjoubran/web-starter-vanilla.git"
+  },
+  "author": "Jad Joubran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadjoubran/web-starter-vanilla/issues"
+  },
+  "homepage": "https://github.com/jadjoubran/web-starter-vanilla#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}

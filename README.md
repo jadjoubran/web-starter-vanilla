@@ -24,7 +24,7 @@ Browse to [localhost:8080](http://localhost:8080)
 
 ## Modules
 
-This starter uses native browser modules with `sctipt type="module"`.
+This starter uses native browser modules with `script type="module"`.
 
 You can import other files, as long as you the path is correct, starts with a `./` and ends with `.js`.  
 Note that you cannot import libraries installed with NPM as bare modules are not supported by browsers yet.
